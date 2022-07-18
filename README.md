@@ -4,7 +4,7 @@ I have created world's Famous known Blogging Site `Medium` wh9ich inspired me to
 
 ## 🚀 Check it out:
 
-Run this Project => [Check it Out 🐱‍🏍](https://bts-medium-clone.vercel.app/)
+Run this Project => [Check it Out 🐱‍🏍](https://bts-medium-clone.vercel.app/) Also Check out my Repel which I Have Published By Fork & Running my [Repel](https://replit.com/@HamzaJaffar/Medium-20?v=1)
 
 
 ## 🛠 Weapons Used in th Code:
