@@ -14,6 +14,14 @@ I have created world's Famous known Blogging Site `Medium` which inspired me to 
 - **Firebase Auth & Database**
 - **Responsive UI Mobile Friendly**
 
+## 😲 Features of This Project:
+
+- You Can **Login into this App**
+- Using your any **Google Account**
+- You Can **Write Blogs** when Clicking on `Write` Button
+- Add **Description, Tags, Duration of Reading & Images to your Blog**
+- **BOOM! 😎 NOW BLOG IS POSTED YOU CAN SEE YOUR BLOG** 
+
 ## 📸 ScreenShots:
 
 ![ss](https://user-images.githubusercontent.com/52501040/179568274-42da60b8-ea17-4db9-9150-aaf27d3b049b.jpg)
